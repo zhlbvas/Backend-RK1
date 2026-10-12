@@ -1,0 +1,14 @@
+
+{
+    "name": "backend-rk1",
+    "version": "1.0.0",
+    "description": "Тур-гид по Астане с формой добавления достопримечательностей",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "ejs": "^3.1.10",
+        "express": "^4.21.2"
+    }
+}
